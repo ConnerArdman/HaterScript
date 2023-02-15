@@ -1,5 +1,5 @@
 # HaterScript
-A programming language for the haters, made exclusively using real negative "hate" comments.
+A programming language for the haters, made exclusively using real negative "hate" comments. [Live Demo](https://connerardman.github.io/HaterScript/)
 
 ## Notes & Disclaimers
 - Many of the syntax pieces have intentional typos. These were taken directly from comments and left in their original form.
