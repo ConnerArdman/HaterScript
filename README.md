@@ -1,14 +1,16 @@
 # HaterScript
-A programming language using only real negative comments.
+A programming language for the haters, made exclusively using real negative "hate" comments.
 
 ## Notes & Disclaimers
 - Many of the syntax pieces have intentional typos. These were taken directly from comments and left in their original form.
 - For the most part, the language is case-insensitive.
 - Punctuation matters. Extra or missing punctuation will cause syntax errors.
-- Debugging code in HaterScript is extremely confusing. Good luck.
-- None of this code has been fully tested, I am sure it has bugs.
-- There are far more efficient ways to implement an interpreter. This should not be seen as a tutorial or perfect example.
-- This is just a fun project, please don't actually use it...
+- Functions don't get hoisted. All functions must be defined before being invoked.
+- Debugging code in HaterScript is extremely confusing. Good luck :)
+- None of this code has been fully tested, I am sure it has many bugs. If you think something should work and it doesn't there is a good chance it is an interpreter bug.
+- The entire interpreter is written in TypeScript. In theory, this was probably a bad idea, but in practice it made the process easier. Some of the type annotations are fairly weak though.
+- There are far more efficient ways to implement an interpreter. This should not be seen as a tutorial or a perfect example.
+- This is just a fun project, please don't actually use it... but if you do, @ me
 
 
 ## General Syntax
@@ -321,7 +323,7 @@ A programming language using only real negative comments.
             You are kidding about X, X1, X2, … right? 
           </li>
           <li>
-            L + ratio + X + X1 + X2 + X3 take HTML developers be like “X…”
+            L + ratio + X + X1 + X2 + X3 take
           </li>
         </ul>
       </td>

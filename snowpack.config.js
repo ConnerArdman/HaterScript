@@ -1,3 +1,8 @@
 module.exports = {
-  mount: {src: "/"}
-}
+  mount: { src: "/" },
+  buildOptions: {
+    // For GH Pages
+    out: "docs",
+    metaUrlPath: "snowpack",
+  },
+};
