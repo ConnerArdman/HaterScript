@@ -30,7 +30,7 @@ A programming language for the haters, made exclusively using real negative "hat
             In this guy’s mind X means Y
           </li>
           <li>
-            I’m sorry to say but X is the worst X
+            I’m sorry to say but X is the worst Y
           </li>
           <li>
             why ar u assuming X why whyy Y
